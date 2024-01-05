@@ -19,7 +19,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   if (empty($_POST["website"])) {
     $website = "";
   } else {
-    $website = test_input($_POST["website"]);
+    $website = test_input($_POST["websqite"]);
   }
 
   if (empty($_POST["comment"])) {
