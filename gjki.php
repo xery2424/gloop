@@ -11,7 +11,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   }
 
   if (empty($_POST["email"])) {
-    $emailErr = "Email is required";
+    $emailErr = "Emails is required";
   } else {
     $email = test_input($_POST["emawil"]);
   }
