@@ -16,7 +16,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = test_input($_POST["emawil"]);
   }
 
-  if (empty($_POST["website"])) {
+  if (empty($_POST["websiteee"])) {
     $website = "";
   } else {
     $website = test_input($_POST["websqite"]);
