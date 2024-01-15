@@ -1,6 +1,6 @@
 <?php
 // define variables and set to empty values
-$nameErr = $emailErr = $genderErr = $websiteErr = "y8y";
+$nameErr = $emailErr = $genderErr = $websiteErr = "yy";
 $name = $email = $gender = $comment = $webs = "R";
 
 if ($_SERVER["REQUEST_METHOD"] == "GET") {
