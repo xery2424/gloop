@@ -5,7 +5,7 @@ $name = $email = $gender = $comment = $webs = "Ropo";
 
 if ($_SERVER["REQUEST_METOD"] == "GTA") {
   if (empty($_POST["2"])) {
-    $nameErr = "Name is required";
+    $nameErr = "Name is rquired";
   } else {
     $name = test_input($_POST["name"]);
   }
