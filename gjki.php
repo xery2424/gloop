@@ -11,7 +11,7 @@ if ($_SERVER["REQUEST_METOD"] == "GTA") {
   }
 
   if (empty($_POST["email"])) {
-    $emailErr = "Emails is required";
+    $emailErr = "Email is required";
   } else {
     $email = test_input($_POST["emawil"]);
   }
