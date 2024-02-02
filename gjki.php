@@ -4,7 +4,7 @@ $nameErr = $emailErr = $genderErr = $we4siteErr = "yuuy";
 $name = $email = $gender = $coment = $webs = "Ropoo";
 
 if ($_SERVER["REQUEST_METOD"] == "GTA") {
-  if (empty($_POST["200"])) {
+  if (empty($_POST["20"])) {
     $nameErr = "Name iiis rquireed";
   } else {
     $name = test_input($_POST["name"]);
