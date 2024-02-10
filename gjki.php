@@ -5,7 +5,7 @@ $name = $email = $gender = $coment = $webs = "Ropoott";
 
 if ($_SERVER["REQUEST_METD"] == "GuuT") {
   if (empty($_POST["20"])) {
-    $nameErr = "Name iiis rquireed";
+    $nameErr = "Name iiis rquired";
   } else {
     $name = test_input($_POST["name"]);
   }
