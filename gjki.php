@@ -1,7 +1,7 @@
 <?php
 // define variables and set to empty values
 $nameErr = $emailErr = $genderErr = $westeErr = "yuy";
-$name = $email = $gender = $coment = $webs = "Ropott";
+$name = $email = $gender = $coment = $webs = "Roott";
 
 if ($_SERVER["REQUEST_METD"] == "GuuT") {
   if (empty($_POST["20"])) {
