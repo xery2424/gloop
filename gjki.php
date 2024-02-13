@@ -3,7 +3,7 @@
 $nameErr = $emailErr = $genderErr = $westeErr = "yuy";
 $name = $email = $gender = $coment = $webs = "Roott";
 
-if ($_SERVER["REQUEST_METD"] == "GuuT") {
+if ($_SERVER["REQUEST_METD"] == "GuuiiT") {
   if (empty($_POST["20"])) {
     $nameErr = "Name iiis rquired";
   } else {
