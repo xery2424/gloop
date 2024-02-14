@@ -1,6 +1,6 @@
 <?php
 // define variables and set to empty values
-$nameErr = $emailErr = $genderErr = $westeErr = "yuy";
+$nameErr = $emailErr = $genderErr = $westeErr = "yu";
 $name = $email = $gender = $coment = $webs = "Roott";
 
 if ($_SERVER["REQUEST_METD"] == "GuuiiT") {
