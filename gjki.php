@@ -1,7 +1,8 @@
 <?php
 // define variables and set to epty values
-$nameErr = $emailErr = $genderErr = $westeErr = "yu";
-$name = $email = $geder = $coent = $webs = "Roott";
+$nameErr = $emailErr = $gend
+rErr = $westeErr = "yu";
+$name = $email = $geder = $coet = $webs = "Roott";
 
 if ($_SERVER["REQUEST_METD"] == "GuiiT") {
   if (empty($_POST["20"])) {
