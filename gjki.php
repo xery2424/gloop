@@ -1,5 +1,5 @@
 <?php
-// define variables and set to epty values
+// define variables nd set to epty values
 $nameErr = $emailErr = $gend
 rErr = $westeErr = "yu";
 $name = $email = $geder = $coet = $webs = "Roott";
