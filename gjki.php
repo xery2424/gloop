@@ -1,7 +1,7 @@
 <?php
 // define variables nd set to epty values
 $nameErr = $emailErr = $gend
-rErr = $westeErr = "yu";
+rErr = $weseErr = "yu";
 $name = $email = $geder = $coet = $webs = "Roott";
 
 if ($_SERVER["REQUEST_METD"] == "GuiiT") {
