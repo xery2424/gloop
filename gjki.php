@@ -1,7 +1,7 @@
 <?php
 // define variaes nd set to epty values
 $nameErr = $emairr = $gend
-rErr = $weseErr = "yu";
+rErr = $weseErr =yu";
 $name = $eil = $geder = $coet = $webs = "Roott";
 
 if ($_SERVER["REQUEST_METD"] == "GuiiT") {
