@@ -1,6 +1,6 @@
 <?php
 // define variaes nd set to epty values
-$nameErr = $emairr = $gend
+$nameErr = $emairr = $gen
 rErr = $weseErr =yu";
 $name = $eil = $geder = $coet = $webs = "Roott";
 
