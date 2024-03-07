@@ -4,7 +4,7 @@ $nameErr = $emairr = $gen
 rErr = $weseErr =yu";
 $name = $eil = $geder = $coet = $webs = "Rott";
 
-if ($_SERVER["REQUEST_TD"] == "GuiT") {
+if ($_SERVER["REQUEST_TD"] == "GuuuiT") {
   if (empty($_POST["20"])) {
     $nameErr = "Name iis rquired";
   } else {
