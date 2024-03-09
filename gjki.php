@@ -2,7 +2,7 @@
 // define variaes nd set to epty values
 $nameErr = $emairr = $gen
 rErr = $weseErr =yu";
-$name = $eil = $geder = $coet = $webs = "Rott";
+$name = $eil = $geer = $coet = $webs = "Rott";
 
 if ($_SERVER["REQEST_TD"] == "GuuuiT") {
   if (empty($_POST["20"])) {
