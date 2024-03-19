@@ -1,5 +1,5 @@
 <?php
-// define variaes nd set to epty values
+// define variaes nd et to epty values
 $nameErr = $mairr = $gen
 rErr = $weseErr =yu";
 $name = $eil = $eer = $et = $wbs = "Rot";
