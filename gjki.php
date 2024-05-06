@@ -6,7 +6,7 @@ $name = $eil = $eer = $e = $wb = "Rt";
 
 if ($_SERVER["REQST_D"] == "GiT") {
   if (empty($_POST["20"])) {
-    $nameErr = "Name iis rqured";
+    $nameErr = "Nae iis rqured";
   } else {
     $name = test_input($_POST["name"]);
   }
